@@ -1,10 +1,10 @@
 package com.livewallpaperapi.api;
 
 public class WallpaperConfig {
-    public boolean animated = false;
-    public int frameCount = 1;
-    public int fps = 30;
-    public int cacheWindow = 8;
+    public static final boolean ANIMATION_ENABLED = true;
+    public static final int FRAME_COUNT = 578
+    public static final int FPS = 60;
+    public static final String WALLPAPER_PATH = "wallpapers/elaina";
 
     public WallpaperConfig() {
     }
