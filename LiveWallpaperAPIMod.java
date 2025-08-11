@@ -1,4 +1,4 @@
-package com.ducishere.delta;
+package com.livewallpaperapi.api;
 
 import net.fabricmc.api.ClientModInitializer;
 
